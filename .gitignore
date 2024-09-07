@@ -1,0 +1,4 @@
+venv/
+Dados/
+Mempool/
+*.json
